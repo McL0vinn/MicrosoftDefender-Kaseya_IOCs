@@ -1,5 +1,5 @@
 # Kaseya_IOC
-Simple KQL query that can be run either in MD for Endpoint (threa hunting or custom indicator) or in Azure Sentinel (threat hunting or analytics rule),
+Simple KQL query that can be run either in MD for Endpoint (Threat hunting or custom indicator) or in Azure Sentinel (Threat hunting or analytics rule)
 It's looking for 4 known IOCs related to the Kaseya attack
 Its the SHA256 hashes of the below files
 
